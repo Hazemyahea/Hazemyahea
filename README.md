@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Hazem Yahea
 
-![Profile Banner](https://img.shields.io/badge/Welcome-to-my-GitHub-blue)
-
 I'm a passionate programmer and lifelong learner. I love building projects, exploring new technologies, and improving my coding skills every day.  
 
 ---
